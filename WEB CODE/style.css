@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    
+    background-color: rgb(27, 27, 121);
+    
+}
+.search {
+    position: relative;
+    left: 80%;
+    color: rgb(124, 123, 123);  
+    transform: translateY(100%);
+}
+.search i{
+    cursor: pointer;
+}
+.logo h1{
+   transform: translateY(320%);
+    text-indent: 7%;
+    color:gold;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.png ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    display: flex;
+}
+.png ul label{
+ cursor:pointer;
+ color: blue;
+}
+.other_page{
+    background-color: blue;
+color: white;
+display: flex;
+font-size: medium;
+border-top: 10cm;
+border-color: gold;
+}
+.other_page ul li{
+    list-style: none;
+    cursor: pointer;
+    color: white;
+}
+.footer img{
+   transform: translateX(300%);
+}
+.social{
+    transform:translateX(200%);
+}
+.contact{
+    transform: translateX(100%);
+
+}
+.social img{
+    cursor: pointer;
+}
+.resources{
+    transform: translateX(50%);
+}
